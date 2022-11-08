@@ -8,7 +8,7 @@ function App() {
       <h1 className="font-bold text-3xl block">
         Best Practices and Patterns for Managing API Requests and States
       </h1>
-      <h2 className="font-semibold text-xl">By Thomas Findlay</h2>
+      <h2 className="font-semibold text-xl">By BabaYaga</h2>
     </div>
   );
 }
